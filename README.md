@@ -21,7 +21,3 @@ Esse projeto contem uma API MOCK onde podemos consultar dados, iniciando o servi
 <p>5 - Execute o comando: npm install</p>
 <p>6 - Agora para iniciar o serviço, execute: npm install</p>
 <p>7 - Pronto você pode acessar pelo link http://localhost:3000/items</p>
-
-
-
- 
